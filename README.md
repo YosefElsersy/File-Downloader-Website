@@ -32,10 +32,6 @@ This project consists of a simple yet effective JavaScript-based web application
 2. Open the `index.html` file in a web browser to run the application locally.
 3. No additional setup is required. The application is ready to use.
 
-## Contributions
-
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](#) to report a bug or request a feature.
-
 ---
 
 This description aims to give users and potential contributors a clear understanding of what the project is, how it works, and how they can get involved. Adjustments and enhancements can be made based on the specifics of your project and personal preferences.
