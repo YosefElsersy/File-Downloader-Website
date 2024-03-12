@@ -1,6 +1,3 @@
-Certainly! Here is a description you can use for your GitHub repository dedicated to the JavaScript-based file downloader website:
-
----
 
 # JavaScript File Downloader
 
