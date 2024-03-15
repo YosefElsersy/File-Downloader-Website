@@ -3,6 +3,8 @@
 
 This project consists of a simple yet effective JavaScript-based web application that allows users to download files from the internet directly to their device. Utilizing the Fetch API, the application fetches the file from a provided URL and triggers a download process without needing to navigate away from the page.
 
+![Screenshot_3](https://github.com/YosefElsersy/File-Downloader-Website/assets/124294506/05ce5d79-cc5a-47d2-947f-0cb1718458ba)
+
 ## Features
 
 - **User Input for URL:** Users can input the URL of the file they wish to download directly into the application.
