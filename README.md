@@ -33,4 +33,3 @@ This project consists of a simple yet effective JavaScript-based web application
 
 ---
 
-This description aims to give users and potential contributors a clear understanding of what the project is, how it works, and how they can get involved. Adjustments and enhancements can be made based on the specifics of your project and personal preferences.
